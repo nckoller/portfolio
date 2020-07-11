@@ -1,0 +1,10 @@
+/* Contact Page */
+.page-heading {
+  text-align: center;
+  padding: 2%;
+}
+
+.contact-form {
+  width: 50%;
+  margin: auto;
+}
