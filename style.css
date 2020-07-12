@@ -1,10 +1,35 @@
+/* Home page */
+.home-page {
+  background-color: cadetblue;
+}
+
+#ninaKoller {
+  text-align: center;
+  padding-top: 5%;
+  padding-bottom: 2%;
+  color: floralwhite;
+}
+
+#subHeading {
+  text-align: center;
+  padding: 1%;
+  font-size: medium;
+  font-style: italic;
+  color: floralwhite;
+}
+
+#profilePic {
+  border-style: solid;
+  border-color: floralwhite;
+}
+
+.profile-links {
+  color: lightcyan;
+  padding-top: 20px;
+}
+
 /* Contact Page */
 .page-heading {
   text-align: center;
   padding: 2%;
-}
-
-.contact-form {
-  width: 50%;
-  margin: auto;
 }
