@@ -1,5 +1,7 @@
 # Nina Koller's Portfolio
 
-##Tech/Framework used##
+## Tech Stack:
 
-Built with Bootstrap, HTML, and CSS.
+- Bootstrap
+- HTML
+- CSS
